@@ -1,0 +1,53 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+form{
+    width: 210px;
+    text-align: center;
+    margin: 8% auto 0;
+    padding: 20px;
+}
+.input_butn{
+    padding: 10px;
+    margin: 20px;
+    border-radius: none;
+    
+}
+.input_butn:hover{
+border-color:blue;
+}
+#id{
+    text-decoration: none;
+    color: rgb(32, 28, 28);
+    
+}
+.color{
+    color: white;
+    background-color: blue;
+    padding: 5px;
+    margin: 10px;
+    width: 200px;
+    border: none;
+    
+}
+#btn{
+    color: white;
+    background-color: red;
+    margin: 10px;
+    border: none;
+    padding: 5px;
+    width: 200px;
+
+
+}
+p{
+    text-align: center;
+}
+hr{
+    width: 150px;
+}
+#my{
+    text-decoration: none;
+    color: black;
+}
